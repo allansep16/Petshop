@@ -1,0 +1,264 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #d6bd00;
+    padding: 3px;
+    text-align: center;
+  }
+      
+    img {
+      border: -1px solid #ddd;
+      border-radius: 1px;
+      padding: -900px;
+      width: 36px;
+    }
+    
+    img:hover {
+      box-shadow: 0 0 2px 1px #d6bd00(0, 140, 186, 0.5);
+    }
+  
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+  }
+  
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #000000;;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  .banner {
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  
+  .banner img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .about, .why-buy {
+    background-color: #fff;
+  }
+  
+  .contact {
+    background-color: #f7f7f7;
+  }
+  
+  form label, form input, form textarea, form button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form button {
+    background-color:#ffffff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  .product button:hover {
+        background-color: #45a049;
+    }
+    .product button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 10px 0;
+        cursor: pointer;
+    }
+  
+  footer {
+    background-color: #d6bd00;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+  .container{
+  display: flex; justify-content: center;align-items: center;height: 100vh;
+  }
+  style
+  div {
+    text-align: center;
+  }
+  
+  a{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
+  font-size: 30px; 
+  transition: 3s;
+  
+  }
+  a:hover{
+  color: #0801014a
+  }
+  
+  ul{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;right:auto
+    }
+  
+  img{width: 100px;left:05px;
+  
+  }div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  .appointment-form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .appointment-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .appointment-form input[type="text"],
+  .appointment-form input[type="email"],
+  .appointment-form input[type="tel"],
+  .appointment-form input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .appointment-form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .appointment-form input[type="submit"]:hover {
+    background-color: #555;
+  }
+  
+  section h2{
+    padding: 10px;
+    text-align: center;
+    font-size: 50px
+  }
+  
+  button{
+    padding: 10px;
+    background-color: #333;
+    color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+
+  }
+  .enviar-button{
+    padding: 10px;
+    background-color: #333;
+    color: #f1f1f1;
+    border: none;
+    cursor:pointer ;
+  }
+
+    .ul {display: flex; gap: 60px;}
+
+  header h1{
+    font-size: 36px;
+    font-weight: bold;
+  }
+    
+.card body{
+    display: flex;
+    height: 30px;
+    width: 50px;
+  }
+  header nav{
+    display: 0px;
+    height: 00x;
+
+  }
+
+  .divclasscard{
+    display: 30px;
+    width: 80px;
+  }
